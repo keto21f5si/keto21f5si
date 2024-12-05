@@ -14,7 +14,7 @@ If you want know me, you should visit [my profile page](https://keto21.f5.si/).
 
 - [x] Learn HTML and CSS
 - [x] Learn JavaScript
-- [ ] Learn Node.js `<= NOW!`
-- [ ] Learn React or Vue
+- [x] Learn Node.js
+- [ ] Learn ~React or Vue~ Svelte `<= NOW!`
 - [ ] Learn how to make 3D model
 - [ ] Learn Unity
